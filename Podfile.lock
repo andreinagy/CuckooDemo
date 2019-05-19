@@ -1,0 +1,16 @@
+PODS:
+  - Cuckoo (1.0.4)
+
+DEPENDENCIES:
+  - Cuckoo
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cuckoo
+
+SPEC CHECKSUMS:
+  Cuckoo: 58e8219aa80f956350b6d3b396e9f1d6871544e7
+
+PODFILE CHECKSUM: c2eb055986081c83c4479cce30044d85a508adb9
+
+COCOAPODS: 1.6.2
